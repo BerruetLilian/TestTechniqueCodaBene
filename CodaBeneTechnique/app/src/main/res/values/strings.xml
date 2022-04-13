@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coda Bene Test Technique</string>
+    <string name="welcomeText">Bienvenue sur mon application</string>
+    <string name="newEntryButton">Nouvelle entrée</string>
+    <string name="showEntriesButton">Afficher les dates</string>
+    <string name="inputEntriesText">"Entrez les données du produit "</string>
+    <string name="idTextInput">Identifiant produit :</string>
+    <string name="dateTextInput">Date d\'expiration (aaaa-mm-jj) :</string>
+    <string name="validationButton">Valider</string>
+</resources>
